@@ -1,4 +1,4 @@
-# Information Retrival Project
+# Information Retrieval Project
 
 ## Table of Contents
 - [Project Description](#project-description)
