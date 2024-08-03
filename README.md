@@ -11,17 +11,21 @@
 For a detailed Project description, please refer to the [Phase01 Description PDF](./IR-Project-Spring1402-Phase1.pdf). 
 
 #### Part01: Pre Processing
-
+The Implemented Code is in [Part01 Code](./Phase01-Part01.py). <br />
+The Report for this part is provided in [Part01 Report](./IR_Phase01_Part01_Report-9931061.pdf)
 
 #### Part02: Positional Index
-
+The Implemented Code is in [Part02 Code](./Phase01-Part02.py). <br />
+The Report for this part is provided in [Part02 Report](./IR_Phase01_Part02_Report-9931061.pdf)
 
 #### Part03: Query
+The Implemented Code is in [Part03 Code](./Phase01-Part03.py). <br />
+The Report for this part is provided in [Part03 Report](./IR_Phase01_Part03_Report-9931061.pdf)
 
 ### Phase02
-For a detailed HomeWork description, please refer to the [HW2 Description PDF](./HW2/HW2.pdf). <br />
-The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW2/HW2_9931061.pdf). <br />
-The Answer for Code Parts is provided in the [Code Answer Project](./HW2/SignalHW2).
+For a detailed Project description, please refer to the [Phase02 Description PDF](./IR-Project-Spring%201402-Phase2.pdf). <br />
+The Implemented Code is provided in the [Phase02 Code](./Phase02.py). <br />
+The Report is provided in the [Phase02 Report](./IR_Phase02-Report.pdf).
 
 ## IDE
 This project is developed using Pycharm.
