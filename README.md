@@ -8,7 +8,7 @@
 ## Project Description
 
 ### Phase01
-For a detailed HomeWork description, please refer to the [HW1 Description PDF](./HW1/HW1.pdf). 
+For a detailed Project description, please refer to the [Phase01 Description PDF](./IR-Project-Spring1402-Phase1.pdf). 
 
 #### Part01: Pre Processing
 
@@ -16,7 +16,7 @@ For a detailed HomeWork description, please refer to the [HW1 Description PDF](.
 #### Part02: Positional Index
 
 
-#### Part03: 
+#### Part03: Query
 
 ### Phase02
 For a detailed HomeWork description, please refer to the [HW2 Description PDF](./HW2/HW2.pdf). <br />
