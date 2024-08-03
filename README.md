@@ -1,4 +1,4 @@
-# Signal & System HomeWorks & Projects
+# Information Retrival Project
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -8,8 +8,15 @@
 ## Project Description
 
 ### Phase01
-For a detailed HomeWork description, please refer to the [HW1 Description PDF](./HW1/HW1.pdf). <br />
-The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW1/HW1_9931061.pdf).
+For a detailed HomeWork description, please refer to the [HW1 Description PDF](./HW1/HW1.pdf). 
+
+#### Part01: Pre Processing
+
+
+#### Part02: Positional Index
+
+
+#### Part03: 
 
 ### Phase02
 For a detailed HomeWork description, please refer to the [HW2 Description PDF](./HW2/HW2.pdf). <br />
