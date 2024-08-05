@@ -27,6 +27,14 @@ For a detailed Project description, please refer to the [Phase02 Description PDF
 The Implemented Code is provided in the [Phase02 Code](./Phase02.py). <br />
 The Report is provided in the [Phase02 Report](./IR_Phase02-Report.pdf).
 
+## Dependencies
+This project uses the following libraries:
+
+- [sys](https://docs.python.org/3/library/sys.html)
+- [json](https://docs.python.org/3/library/json.html)
+- [parsivar](https://github.com/ICTRC/Parsivar)
+- [hazm](https://github.com/roshan-research/hazm)
+
 ## IDE
 This project is developed using Pycharm.
 
